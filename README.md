@@ -1,3 +1,42 @@
+
+# 📝 React To-Do List App
+
+A simple and lightweight **To-Do List** application built with **React.js**.  
+This app allows users to add tasks, mark them as completed, and delete them.
+
+---
+
+## Features
+
+- ✅ Add new tasks  
+- ✔️ Toggle task completion  
+- ❌ Delete tasks  
+- ⌨️ Press `Enter` to add a task quickly
+
+---
+
+## Technologies Used
+
+- React.js (`useState`, `useRef`)
+- JavaScript (ES6)
+- HTML & CSS
+
+---
+
+## Getting Started
+
+1. Make sure you have **Node.js** and **npm** installed.
+2. Clone the repository or download the source code.
+3. Open your terminal and navigate to the project directory.
+4. Install dependencies:
+
+
+   ```bash
+npm install
+Start the development server:
+npm start
+Open your browser and visit: http://localhost:3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +107,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
